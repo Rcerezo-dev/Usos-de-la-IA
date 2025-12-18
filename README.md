@@ -87,7 +87,7 @@ Activar en Windows:
 
 4. Ejecutar todas las celdas 
 
-📚 Contexto educativo
+ Contexto educativo
 
 Proyecto desarrollado en el contexto de:
 
