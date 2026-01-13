@@ -72,8 +72,6 @@ Proyecto Usos de la IA
 
  Instalación y uso
 1️ Clonar el repositorio
-git clone https://github.com/tu_usuario/Usos-de-la-IA.git
-cd Usos-de-la-IA
 
 2️ Crear entorno virtual
 python -m venv .venv
