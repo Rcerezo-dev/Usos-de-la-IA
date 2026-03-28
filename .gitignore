@@ -1,0 +1,15 @@
+# Documento de planificación personal
+mejoras.md
+
+# Credenciales
+.env
+
+# Datos de alumnos (privacidad)
+tareas/
+evaluaciones/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
